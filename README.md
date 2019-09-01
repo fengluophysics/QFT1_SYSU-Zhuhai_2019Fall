@@ -1,4 +1,4 @@
-# QUantum Field Theory I @ SYSU 2019
+# Quantum Field Theory I @ SYSU 2019
 
 ## News
 
