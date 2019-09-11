@@ -2,4 +2,4 @@
 
 ## News
 
-The [first lecture notes](topic_1 (natural units).pdf) is uploaded.
+The [second lecture notes](topic_2 (Lorentz transformation).pdf) is uploaded.
