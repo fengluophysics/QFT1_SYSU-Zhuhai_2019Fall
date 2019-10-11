@@ -2,8 +2,5 @@
 
 ## News
 
-The [lecture notes 3](topic_3 (Lorentz translations and transformations of scalar and vector fields).pdf) is uploaded. 
+The [lecture notes 4](topic_4 (Euler-Lagrangian equation).pdf) is uploaded. (2019/10/11)
 
-The [homework 1](2019Fall_QFT1_hw_1.pdf) is uploaded. Due date: 2019/09/25.
-
-The [solution for homework 1](2019Fall_QFT1_hw_1_solution.pdf) is uploaded.
