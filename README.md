@@ -2,10 +2,5 @@
 
 ## News
 
-[homework 3](2019Fall_QFT1_hw_3.pdf) is posted (due 2019.11.18).
+[homework 3 solution](2019Fall_QFT1_hw_3_solution.pdf) is posted.
 
-[Mid-term solution](2019Fall_QFT1_mid-term_solution.pdf) is posted. 
-
-A new version of [lecture notes 7](topic_7 (Lorentz transformation of spin 1/2 fields).pdf) is posted. 
-
-[lecture notes 8](topic_8 (real scalar field quantization).pdf) is posted. 
