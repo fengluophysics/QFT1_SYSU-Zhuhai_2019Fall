@@ -2,5 +2,7 @@
 
 ## News
 
-[homework 3 solution](2019Fall_QFT1_hw_3_solution.pdf) is posted.
+[topic 9](topic_9 (complex scalar field quantization).pdf) is posted.
+
+[topic 10](topic_10 (Dirac field quantization).pdf) is posted.
 
