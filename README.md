@@ -2,7 +2,5 @@
 
 ## News
 
-[topic 9](topic_9 (complex scalar field quantization).pdf) is posted.
-
-[topic 10](topic_10 (Dirac field quantization).pdf) is posted.
+[homework 4](2019Fall_QFT1_hw_4.pdf) is posted. Due: 2019.12.18
 
