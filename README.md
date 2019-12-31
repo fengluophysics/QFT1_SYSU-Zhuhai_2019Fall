@@ -2,7 +2,5 @@
 
 ## News
 
-Final exam (2019Fall_QFT1_final.pdf) is posted. Due: 2019.12.30
-
-[homework 4 solution](2019Fall_QFT1_hw_4_solution.pdf) is posted.
+[final exam solution](2019Fall_QFT1_final_solution.pdf) is posted.
 
